@@ -1,0 +1,16 @@
+* {
+	color: #fff;
+}
+
+.overlay { /*overlay*/
+	background: url(../images/btc_bg.jpg);
+	-webkit-background-size: cover;
+	-moz-background-size:  cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.section {
+	background: rgb(50,115,220);
+	background: rgba(50,115,220,0.9);
+}
